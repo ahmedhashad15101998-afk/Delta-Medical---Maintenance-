@@ -1,0 +1,6 @@
+{
+  "name": "Delta Medical - دلتا الطبية",
+  "description": "نظام CMMS & ERP لإدارة عقود وصيانة أجهزة رسم العضلات والمخ والمستلزمات الطبية لشركة دلتا الطبية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
